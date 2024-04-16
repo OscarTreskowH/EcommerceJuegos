@@ -4,13 +4,13 @@
 2) Iniciar Proyecto : python manage.py runserver  
 3) Copiar dirección local host
 
-   ** Usuario Administrador ** :
-   Usuario : git
-   Password : git
-
-   " Usuario - Cliente "
-   Usuario : git2024
-   Password : 1234567Usuario
+   ** Usuario Administrador ** :  
+   Usuario : git  
+   Password : git  
+  
+   " Usuario - Cliente "  
+   Usuario : git2024  
+   Password : 1234567Usuario  
 
   > ** A disfrutar de una buena compra 🤣👌👌**
 
