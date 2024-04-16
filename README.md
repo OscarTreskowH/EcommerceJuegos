@@ -10,7 +10,10 @@
   
    " Usuario - Cliente "  
    Usuario : git2024  
-   Password : 1234567Usuario  
+   Password : 1234567Usuario
+
+       "OJO": Usuario sin Registro, no tiene acceso a Carrito de Compras.
+
 
   > ** A disfrutar de una buena compra 🤣👌👌**
 
